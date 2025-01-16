@@ -1,0 +1,6 @@
+VehicleID,RegistrationDate,Price,Device,IssueDescription,Status
+V001,2023-06-10,20000,Engine,Oil pressure sensor failure,Pending Repair
+V002,2023-07-01,15000,Transmission,Gear slipping issue,Under Diagnosis
+V003,2023-08-15,25000,Brake System,Brake fluid leak detected,Repair Complete
+V004,2023-09-05,22000,Suspension,Strut damage on left side,Pending Repair
+V005,2023-09-25,18000,Battery,Low voltage during startup,Under Monitoring
